@@ -1,13 +1,10 @@
 /*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
+ Write a simple Java program to check whether a
+given number is a prime number or not.
  */
 package acadglid;
 
-/**
- *
- * @author My
- */
+//Problem 2
 public class Session_3_Assignment_2 {
      public static void main(String args[]){  
   int i,m=0,flag=0;    
